@@ -1,0 +1,14 @@
+body {
+  text-align: center;
+  font-size: 70px;
+}
+
+td {
+  width: 100px;
+  height: 100px;
+  border: 2px solid black;
+}
+table {
+  margin: 5px auto;
+  border-collapse: collapse;
+}
